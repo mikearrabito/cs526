@@ -1,0 +1,14 @@
+﻿@{ ViewBag.Title = "Welcome!"; }
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    Hello, @ViewBag.Userid!
+</p>
+
+@if (ViewBag.isADA)
+{
+<p>Visually impared mode (ADA) enabled</p> }
+else
+{
+<p>ADA mode not enabled</p>}

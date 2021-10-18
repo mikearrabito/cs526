@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{A2245E0D-A0BD-450F-B44C-42A7BBE85677}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageSharingWithUpload/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="ImageSharingWithUpload/Controllers/HomeController.cs" Line="30" Column="1" />
+      <File FileName="ImageSharingWithUpload/Controllers/AccountController.cs" />
+      <File FileName="ImageSharingWithUpload/Controllers/ImagesController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImageSharingWithUpload" expanded="True">
+            <Node name="ImageSharingWithUpload" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Images" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="data" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ImageSharingWithUpload PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

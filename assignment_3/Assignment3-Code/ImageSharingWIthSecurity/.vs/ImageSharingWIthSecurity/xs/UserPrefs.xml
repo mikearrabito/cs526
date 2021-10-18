@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{39FCA359-BF1E-407A-A507-A530759A8563}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageSharingWIthSecurity/Controllers/ImagesController.cs">
+    <Files>
+      <File FileName="ImageSharingWIthSecurity/Startup.cs" Line="58" Column="16" />
+      <File FileName="ImageSharingWIthSecurity/DAL/ApplicationDbInitializer.cs" Line="63" Column="58" />
+      <File FileName="ImageSharingWIthSecurity/Controllers/AccountController.cs" Line="46" Column="25" />
+      <File FileName="ImageSharingWIthSecurity/Controllers/ImagesController.cs" Line="297" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImageSharingWIthSecurity" expanded="True">
+            <Node name="ImageSharingWIthSecurity" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ImagesController.cs" selected="True" />
+              </Node>
+              <Node name="DAL" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Images" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="data" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ImageSharingWIthSecurity PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
