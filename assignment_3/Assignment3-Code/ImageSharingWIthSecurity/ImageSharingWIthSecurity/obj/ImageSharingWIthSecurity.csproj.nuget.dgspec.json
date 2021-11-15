@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michael/dev/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/ImageSharingWIthSecurity.csproj": {}
+    "/Users/michael/dev/school/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/ImageSharingWIthSecurity.csproj": {}
   },
   "projects": {
-    "/Users/michael/dev/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/ImageSharingWIthSecurity.csproj": {
+    "/Users/michael/dev/school/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/ImageSharingWIthSecurity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michael/dev/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/ImageSharingWIthSecurity.csproj",
+        "projectUniqueName": "/Users/michael/dev/school/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/ImageSharingWIthSecurity.csproj",
         "projectName": "ImageSharingWIthSecurity",
-        "projectPath": "/Users/michael/dev/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/ImageSharingWIthSecurity.csproj",
+        "projectPath": "/Users/michael/dev/school/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/ImageSharingWIthSecurity.csproj",
         "packagesPath": "/Users/michael/.nuget/packages/",
-        "outputPath": "/Users/michael/dev/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/obj/",
+        "outputPath": "/Users/michael/dev/school/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/michael/.config/NuGet/NuGet.Config"
@@ -75,6 +75,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.9, 5.0.9]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

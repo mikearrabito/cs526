@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{0BE1260C-1DD1-4EBC-B77E-CF31A7BB1710}|Default">
+  <MonoDevelop.Ide.ItemProperties.ImageSharingWithCloudStorage PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageSharingWithCloudStorage/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="ImageSharingWithCloudStorage/Controllers/ImagesController.cs" Line="405" Column="56" />
+      <File FileName="ImageSharingWithCloudStorage/DAL/LogContext.cs" Line="94" Column="1" />
+      <File FileName="ImageSharingWithCloudStorage/Views/Shared/Layout.cshtml" Line="63" Column="58" />
+      <File FileName="ImageSharingWithCloudStorage/DAL/ApplicationDbInitializer.cs" Line="69" Column="65" />
+      <File FileName="ImageSharingWithCloudStorage/Controllers/AccountController.cs" Line="220" Column="86" />
+      <File FileName="ImageSharingWithCloudStorage/Views/Images/ImageViews.cshtml" Line="1" Column="1" />
+      <File FileName="ImageSharingWithCloudStorage/DAL/ILogContext.cs" Line="19" Column="43" />
+      <File FileName="ImageSharingWithCloudStorage/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImageSharingWithCloudStorage" expanded="True">
+            <Node name="ImageSharingWithCloudStorage" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Images" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

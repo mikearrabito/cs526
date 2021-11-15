@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3S6ImTH45gjXDpuD6SHe0Z0nhp29j31BtoYmOmDB2qSnkGeo0/H2PDsjn5Y0gdJPVGjA3Ezh8An0lGsfhakIwg==",
+  "dgSpecHash": "TpWkN7JuV7s9HAVHsIAWgButjt8xLtn0t391CKHmPX8EaMpQgJ6T53z5El4bbdSf0ihmfgh3g76CGccYF3Uavw==",
   "success": true,
-  "projectFilePath": "/Users/michael/dev/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/ImageSharingWIthSecurity.csproj",
+  "projectFilePath": "/Users/michael/dev/school/cs526/assignment_3/Assignment3-Code/ImageSharingWIthSecurity/ImageSharingWIthSecurity/ImageSharingWIthSecurity.csproj",
   "expectedPackageFiles": [
     "/Users/michael/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/michael/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.10/microsoft.aspnetcore.cryptography.internal.5.0.10.nupkg.sha512",
@@ -109,7 +109,8 @@
     "/Users/michael/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/michael/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/michael/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/Users/michael/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "/Users/michael/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "/Users/michael/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.9/microsoft.netcore.app.host.osx-x64.5.0.9.nupkg.sha512"
   ],
   "logs": []
 }
